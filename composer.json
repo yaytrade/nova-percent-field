@@ -37,7 +37,7 @@
             "@install:tools",
             "./tools/pint/vendor/bin/pint"
         ],
-        "lint:check":[
+        "lint:check": [
             "@install:tools",
             "./tools/pint/vendor/bin/pint --test -v"
         ]
