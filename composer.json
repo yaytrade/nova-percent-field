@@ -48,7 +48,7 @@
         "lint": [
             "./tools/pint/vendor/bin/pint"
         ],
-        "lint:check":[
+        "lint:check": [
             "./tools/pint/vendor/bin/pint --test -v"
         ]
     }
