@@ -33,7 +33,7 @@
         "**/*.{js,vue}": [
             "eslint --fix"
         ],
-        "**/*.{md,css,js,vue}": [
+        "**/*.{css,md,json,scss,yaml,yml}": [
             "prettier --write"
         ],
         "**/*.php": [
