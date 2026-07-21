@@ -24,7 +24,7 @@
         "lint-staged": "^13.0.3",
         "lodash": "^4.17.21",
         "postcss": "^8.3.11",
-        "prettier": "^2.7.1",
+        "prettier": "^3.0.0",
         "vue-loader": "^16.8.3"
     },
     "dependencies": {},
